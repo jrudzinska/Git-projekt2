@@ -1,2 +1,3 @@
 zapis1
 do zapisu1
+dodanie zapisu2
